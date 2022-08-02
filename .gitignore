@@ -1,0 +1,8 @@
+Makefile
+Makefile.Debug
+Makefile.Release
+main.o
+moc_phasmophobiasim.cpp
+moc_phasmophobiasim.o
+moc_predefs.h
+phasmophobiasim.o
